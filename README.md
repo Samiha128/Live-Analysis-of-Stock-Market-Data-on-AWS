@@ -115,8 +115,13 @@ Start a consumer to listen to the topic:
 
   ```
 **Create an S3 Bucket**
+
 **AWS Glue Crawler Setup**
+
 1.Create a Glue Crawler
+
 2.Create a Glue Database
+
 **Set up Athena**
+
 ## Architecture
