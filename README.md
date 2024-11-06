@@ -31,7 +31,15 @@ This project aims to perform **real-time stock market analysis** using various *
 
 Follow the steps below to set up the project on your local machine or AWS environment.
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/stock-market-analysis-aws.git
-   cd stock-market-analysis-aws
+### Prerequisites:
+- **AWS Account**: Make sure you have an active AWS account. If not, you can create one [here](https://aws.amazon.com/).
+- **AWS CLI**: Install and configure the AWS Command Line Interface (CLI) for interacting with AWS services. [AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
+- **Git**: Make sure you have Git installed to clone the repository.
+
+### 1. **Clone the repository**:
+Clone the project repository to your local machine using the following command:
+
+```bash
+git clone git@github.com:Samiha128/Live-Analysis-of-Stock-Market-Data-on-AWS.git
+cd Live-Analysis-of-Stock-Market-Data-on-AWS
+
