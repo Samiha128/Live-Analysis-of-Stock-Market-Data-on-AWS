@@ -3,8 +3,6 @@
 ## Table of Contents 📋
 - [Overview](#overview)
 - [Installation](#installation)
-- [Challenges](#challenges)
-- [Points to Improve](#points-to-improve)
 - [Architecture](#architecture)
 - [Contact](#contact)
 
@@ -116,3 +114,9 @@ Start a consumer to listen to the topic:
      bin/kafka-console-consumer.sh --topic stock_market_data --bootstrap-server your-ec2-public-ip:9092
 
   ```
+**Create an S3 Bucket**
+**AWS Glue Crawler Setup**
+1.Create a Glue Crawler
+2.Create a Glue Database
+**Set up Athena**
+## Architecture
