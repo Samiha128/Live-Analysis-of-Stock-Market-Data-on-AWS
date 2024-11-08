@@ -52,7 +52,8 @@ Clone the project repository to your local machine using the following command:
 Use SSH to connect to your instance:
 
     ```bash
-     ssh -i "path/to/your/file.pem" ec2-user@<your-ec2-public-ip>
+      ssh -i "path/to/your/file.pem" ec2-user@<your-ec2-public-ip>
+      
 
 
 #### Installing Kafka on EC2
