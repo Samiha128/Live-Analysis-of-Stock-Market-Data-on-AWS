@@ -126,3 +126,5 @@ Start a consumer to listen to the topic:
 **Set up Athena**
 
 ## Architecture
+![Architecture](./images/architecture.png)
+
