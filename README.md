@@ -128,3 +128,10 @@ Start a consumer to listen to the topic:
 ## Architecture
 ![Architecture](./images/architecture.png)
 
+## contact
+
+Feel free to contribute to this project by opening issues or submitting pull requests. Your input is welcome!
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiha-el-mansouri-27505b250/)
+
+
